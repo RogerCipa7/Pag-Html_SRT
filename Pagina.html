@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Durango SRT Hellcat</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+    <script>
+        function validateForm() {
+            var name = document.getElementById("name").value;
+            var email = document.getElementById("email").value;
+            var message = document.getElementById("message").value;
+            if (name == "" || email == "" || message == "") {
+                alert("Todos los campos deben ser completados.");
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <header class="container">
+        <div class="logo-container">
+            <img src="Dodge_Logo1.jpg" alt="Logo de Dodge" class="logo">
+        </div>
+        <h1>Durango SRT Hellcat</h1>
+        <div class="logo-container">
+            <img src="hellcat.jpg" alt="Logo de Hellcat" class="logo">
+        </div>
+    </header>
+    <div id="main" class="container">
+        <section id="form-container">
+            <h2>Contacto</h2>
+            <form action="#" method="post" onsubmit="return validateForm()">
+                <label for="name">Nombre:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Correo Electrónico:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Mensaje:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+
+                <input type="submit" value="Enviar">
+            </form>
+        </section>
+        <section class="features">
+            <h2>Características de la Dodge Durango SRT Hellcat</h2>
+            <ul>
+                <li>Motor HEMI® V8 de 6.2L supercargado que genera 717 caballos de fuerza y 717 lb-pie de torque</li>
+                <li>Aceleración de 0 a 60 mph en 3.5 segundos</li>
+                <li>Velocidad máxima de 203 mph</li>
+                <li>Sistema de tracción en las cuatro ruedas disponible</li>
+                <li>Parrilla frontal agresiva con luces LED</li>
+                <li>Rines de aluminio de 20 pulgadas</li>
+                <li>Alerón trasero funcional</li>
+                <li>Disponible en una variedad de colores llamativos</li>
+                <li>Asientos de cuero SRT® Performance con calefacción y ventilación</li>
+                <li>Volante SRT® con calefacción</li>
+                <li>Sistema de infoentretenimiento Uconnect® de 10.1 pulgadas con pantalla táctil</li>
+                <li>Asientos para hasta siete pasajeros</li>
+                <li>Control de crucero adaptativo</li>
+                <li>Frenado automático de emergencia</li>
+                <li>Advertencia de salida de carril</li>
+                <li>Monitoreo de punto ciego</li>
+                <li>Seis airbags</li>
+                <li>Control de estabilidad electrónico</li>
+                <li>Cámara de visión trasera</li>
+                <li>Sensores de estacionamiento</li>
+            </ul>
+        </section>
+        <section class="media">
+            <h2>Galería de Imágenes</h2>
+            <div class="gallery">
+                <img src="durango1.jpg" alt="Dodge Durango SRT Hellcat - Vista Frontal">
+                <img src="durango2.jpg" alt="Dodge Durango SRT Hellcat - Vista Motor">
+                <img src="durango3.jpg" alt="Dodge Durango SRT Hellcat - Vista Perfil">
+                <img src="durango4.jpg" alt="Dodge Durango SRT Hellcat - Vista De Lado">
+                <img src="durango5.jpg" alt="Dodge Durango SRT Hellcat - Vista Interior">
+                <img src="durango6.jpg" alt="Dodge Durango SRT Hellcat - Vista Trasera">
+            </div>
+        
+        
+            <h2>Video de Presentación</h2>
+            <div class="video-container">
+                <video controls width="1000" height="550">
+                    <source src="xxxdurango.mp4" type="video/mp4">
+                    
+                </video>
+            </div>
+        
+   
+    <footer class="container">
+        <p>&copy; 2024 Todos los derechos reservados.</p>
+<p>Roger Mateo Cipagauta Labrador</p>
+    </footer>
+</section>
+</body>
+</html>

@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: #000;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #ff0000 3px solid;
+    text-align:center ;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+#main {
+    padding: 30px;
+    background: #fff;
+    margin: 30px auto; 
+    text-align:; 
+}
+
+#form-container {
+    margin-bottom: 30px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+    display: inline-block;
+    color: #fff;
+    background-color: #000;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #ff0000;
+}
+
+.features {
+    margin-top: 30px;
+}
+
+.features h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.features ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.features ul li {
+    background: url('checkmark.png') no-repeat left center;
+    padding-left: 30px;
+    margin-bottom: 10px;
+}
+
+.media {
+    margin-top: 20px;
+	text-align:center ;
+}
+
+/*
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+video {
+    max-width: 100%; /* Ajusta el ancho máximo del video */
+    height: 50%; /* Ajusta automáticamente la altura para mantener la proporción */
+    width: 80%; /* Nuevo tamaño del video */
+    margin-bottom: 20px;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+
+}
+
+@media (max-width: 768px) {
+    header {
+        text-align: center;
+    }
+    #form-container, .features, .media {
+        width: 100%;
+    }
+}
+*/
