@@ -1,16 +1,15 @@
 # **Mi Proyecto**
-# **Roger Mateo Cipagauta Labrador**
-## Ing.Sistemas
+## Roger Mateo Cipagauta Labrador
+### Ing. Sistemas
 
 # Práctica Educativa: Creación de una Página Web con Formularios, Imágenes y Video
 
 ## Introducción
-En esta práctica, hemos desarrollado una página web sbre una camioneta con el objetivo de facilitar la interacción y el aprendizaje en un entorno educativo. La página incluye formularios interactivos, imágenes ilustrativas y videos.
+En esta práctica, hemos desarrollado una página web sobre una camioneta con el objetivo de mostrar sus especificaciones. La página incluye formularios interactivos, imágenes ilustrativas y videos.
 
 ## Tecnologías Utilizadas
 - HTML: Para la estructura y el contenido de la página web.
 - CSS: Para el diseño y la presentación visual.
-
 
 ## Desarrollo de la Página Web
 La página web se ha desarrollado siguiendo los siguientes pasos:
@@ -19,10 +18,8 @@ La página web se ha desarrollado siguiendo los siguientes pasos:
 
 2. **Estilo Visual**: Se han aplicado estilos visuales utilizando CSS para mejorar la apariencia y la legibilidad de la página, asegurando una experiencia de usuario agradable.
 
-3. **Funcionalidad Interactiva**: Mediante JavaScript, se ha agregado funcionalidad interactiva a los formularios, permitiendo la validación de datos y la interacción dinámica con el usuario.
+3. **Contenido Multimedia**: Se han incorporado imágenes y videos relevantes al contenido educativo de la página, enriqueciendo la experiencia de aprendizaje.
 
-4. **Contenido Multimedia**: Se han incorporado imágenes y videos relevantes al contenido educativo de la página, enriqueciendo la experiencia de aprendizaje.
+## Resultado de la Página
 
-## Resultado Pagina
-
-![Texto alternativo](Pagina-srt.png)
+![Camioneta](Pagina-srt.png)
