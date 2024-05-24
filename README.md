@@ -21,4 +21,4 @@ La página web se ha desarrollado siguiendo los siguientes pasos:
 
 ## Resultado Pagina
 
-![Uploading screencapture-file-C-Users-roger-Downloads-PaginaRc-Pagina-html-2024-05-22-13_26_32.png…]()
+![Texto alternativo]https://github.com/RogerCipa7/Pag-Html_SRT/blob/main/screencapture-file-C-Users-roger-Downloads-PaginaRc-Pagina-html-2024-05-22-13_26_32.png)
