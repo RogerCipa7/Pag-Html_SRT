@@ -21,5 +21,7 @@ La página web se ha desarrollado siguiendo los siguientes pasos:
 3. **Contenido Multimedia**: Se han incorporado imágenes y videos relevantes al contenido educativo de la página, enriqueciendo la experiencia de aprendizaje.
 
 ## Resultado de la Página
+Puedes ver la página web en acción [aquí](https://roger-srt.netlify.app/).
 
 ![Camioneta](Pagina-srt.png)
+
